@@ -35,7 +35,7 @@
                         <span class="pcoded-micon">
                             <i class="feather icon-bookmark"></i>
                         </span>
-                        <span class="pcoded-mtext">Quản lí danh mục</span>
+                        <span class="pcoded-mtext">Quản lí đơn hàng</span>
                     </a>
                 </li>
                 
